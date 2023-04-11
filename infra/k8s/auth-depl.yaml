@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: peteralfie/auth
+          image: us.gcr.io/ticketing-dev-382723/auth
           imagePullPolicy: Never
 ---
 apiVersion: v1
