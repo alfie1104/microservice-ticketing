@@ -15,7 +15,6 @@ spec:
       containers:
         - name: auth
           image: us.gcr.io/ticketing-dev-382723/auth
-          imagePullPolicy: Never
 ---
 apiVersion: v1
 kind: Service
