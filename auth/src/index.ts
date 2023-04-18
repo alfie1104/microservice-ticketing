@@ -23,5 +23,5 @@ app.all("*", async (req, res) => {
 app.use(errorHandler);
 
 app.listen(3000, () => {
-  console.log("Auth service is listening on prort 3000!");
+  console.log("Auth service is listening on port 3000!");
 });
