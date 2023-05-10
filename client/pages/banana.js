@@ -1,5 +1,5 @@
 const Banana = () => {
-  return <h1>banana</h1>;
+  return <h1>Banana2</h1>;
 };
 
 export default Banana;
